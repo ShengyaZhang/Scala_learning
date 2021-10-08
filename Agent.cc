@@ -1,6 +1,6 @@
 // Agent.cc
 //
-// This code works only for the testworld that comes with the simulator.
+
 
 #include <iostream>
 #include <list>
